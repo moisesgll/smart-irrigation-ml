@@ -1,8 +1,6 @@
-# Smart Agriculture with Machine Learning and Simulated IoT
+# Smart Agriculture with Machine Learning 
 
 An educational Python project that simulates a smart irrigation system for an agricultural field with eight zones: four growing maize and four growing rice. A decision tree predicts which zones require irrigation, while a seven-day simulation tracks water consumption and soil moisture conditions.
-
-All IoT functionality is simulated. No physical sensors, irrigation valves, or other hardware are connected.
 
 ## Project Overview
 
@@ -140,7 +138,6 @@ The project includes:
 - Fixed random seeds for reproducible dataset generation and simulation conditions.
 - Safeguards against reporting invalid model evaluation metrics.
 - Warnings when class distributions or labels make evaluation unreliable.
-- 74 automated tests covering project behavior.
 
 The program distinguishes between synthetic data and processed Kaggle data so their different meanings are not confused.
 
