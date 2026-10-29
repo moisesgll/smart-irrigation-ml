@@ -128,6 +128,21 @@ The program generates five types of visualizations:
 
 Figures can be displayed and saved as PNG files.
 
+### 1. Confusion Matrix
+![Confusion Matrix](matriz%20de%20confusion%20ML.png)
+
+### 2. Soil Moisture Evolution
+![Soil Moisture](Evoluci%C3%B3n%20de%20humedad%20del%20suelo%20por%20zona%20ML.png)
+
+### 3. Daily Water Consumption
+![Daily Water Consumption](Consumo%20de%20agua%20diario%20durante%20la%20simulaci%C3%B3n%20ML.png)
+
+### 4. Weekly Water Consumption
+![Weekly Water Consumption](Consumo%20total%20semanal%20ML.png)
+
+### 5. Healthy Zones
+![Healthy Zones](%25%20de%20zonas%20saludables%20diarias%20ML.png)
+
 ## Data Quality and Reproducibility
 
 The project includes:
